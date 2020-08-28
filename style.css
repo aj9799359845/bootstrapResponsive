@@ -24,7 +24,7 @@
     background-color: #95a5a6;
 }
 .banner{
-    background: url('../images/banner.jfif') no-repeat;
+    background: url('banner.jfif') no-repeat;
     background-size: 100vw 50vh;
 
 }
@@ -60,7 +60,7 @@
     
 }
 .testimonials{
-    background: url(../images/bg1.jfif) no-repeat;
+    background: url(bg1.jfif) no-repeat;
     background-size: cover;
 }
 .testimonials h2{
